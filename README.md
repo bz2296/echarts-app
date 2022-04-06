@@ -1,6 +1,6 @@
 # echarts-app
 
-## Project setup tesy 4234234234 张小凡
+## Project setup tesy 4234234234 meirenyu1
 ```
 yarn install
 ```
