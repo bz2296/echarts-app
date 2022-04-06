@@ -1,6 +1,6 @@
 # echarts-app
 
-## Project setup
+## Project setup1212
 ```
 yarn install
 ```
